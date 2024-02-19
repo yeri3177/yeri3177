@@ -9,8 +9,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<br/><br/>
 
+
+- 🌱 [Side project](https://jyr3177.notion.site/c3d04fffc9b44c5aae74c7e965d08755?v=9dcb8e798e7e413f9a6d3592438ff174&pvs=4)
+  - [ITFF](https://github.com/yeri3177/itff3)
+  - [afm](https://github.com/yeri3177/afmSemiProject)
+
+- 📝 Study
+  - [Algorithm](https://github.com/yeri3177/Algorithm)
 
 <div align=center>	
   
