@@ -16,7 +16,7 @@
   - [afm](https://github.com/yeri3177/afmSemiProject)
 
 - 📝 Study
-  - [Algorithm](https://github.com/yeri3177/Algorithm)
+  - [LeetCode](https://github.com/yeri3177/Algorithm)
 
 <div align=center>	
   
