@@ -19,7 +19,7 @@
   - [SpringFramework](https://github.com/yeri3177/hello-spring)
     
 - 📝 Study
-  - [LeetCode : java coding test study](https://github.com/yeri3177/Algorithm)
+  - [LeetCode : java coding test](https://github.com/yeri3177/Algorithm)
 
 <div align=center>	
   
