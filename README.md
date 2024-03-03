@@ -16,7 +16,7 @@
   - [afm : 농산물 직거래 웹사이트](https://github.com/yeri3177/afmSemiProject)
 
 - 🌟 Class
-  - [SpringFramework](https://github.com/yeri3177/hello-spring)
+  - [Spring 입문](https://github.com/yeri3177/hello-spring)
     
 - 📝 Study
   - [LeetCode : java coding test](https://github.com/yeri3177/Algorithm)
