@@ -20,8 +20,8 @@
   - [스프링 핵심원리](https://github.com/yeri3177/core)
     
 - 📝 Study
-  - [LeetCode : java coding test](https://github.com/yeri3177/Algorithm)
-
+  - [LeetCode](https://github.com/yeri3177/LeetCode)
+  - [Algorithm](https://github.com/yeri3177/Algorithm)
 
 ![YERI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeri3177&show_icons=true)
 
