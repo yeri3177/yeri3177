@@ -12,7 +12,7 @@
 
 
 - 🌱 [Side project](https://jyr3177.notion.site/c3d04fffc9b44c5aae74c7e965d08755?v=9dcb8e798e7e413f9a6d3592438ff174&pvs=4)
-  - [ITFF : 정보기술인의 영화제 웹사이트](https://github.com/yeri3177/itff3)
+  - [ITFF : 정보기술 영화제 웹사이트](https://github.com/yeri3177/itff3)
   - [afm : 농산물 직거래 웹사이트](https://github.com/yeri3177/afmSemiProject)
 
 - 🌟 Class
