@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YERI💫&fontSize=50&animation=twinkling)
 
+ 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -9,7 +10,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
+<div>
+  <br/>
+</div>
 
 - 🌱 [Side project](https://jyr3177.notion.site/c3d04fffc9b44c5aae74c7e965d08755?v=9dcb8e798e7e413f9a6d3592438ff174&pvs=4)
   - [ITFF : 정보기술 영화제 웹사이트](https://github.com/yeri3177/itff3)
@@ -23,19 +26,29 @@
   - [LeetCode](https://github.com/yeri3177/LeetCode)
   - [Algorithm](https://github.com/yeri3177/Algorithm)
 
+
+<div>
+  <br/><br/>
+</div>
+
+
+<div align=center>
+
+<!-- 백준 티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeri3177)](https://solved.ac/yeri3177/)
 
+<!-- 깃허브 티어 -->
+<!--
 ![YERI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeri3177&show_icons=true)
-
-
-
-<!-- 
-![YERI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeri3177&show_icons=true&theme=merko)
 -->
-<div align=center>	
+![YERI's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeri3177&show_icons=true&theme=ambient_gradient)
+<div>
+  <br/><br/>
+</div>
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeri3177&count_bg=%23F7E874&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+	
 </div>
 
 <!--
